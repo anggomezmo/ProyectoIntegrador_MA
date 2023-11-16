@@ -1,4 +1,4 @@
-# ProyectoIntegrador Metodologías Agiles para la programación"
+# Proyecto Integrador Metodologías Agiles para la programación
 
 ## Integrantes: 
 
